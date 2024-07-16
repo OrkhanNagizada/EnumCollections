@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.AssemblyInfo.cs
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\bin\Debug\net7.0\EnumCollections.exe
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\bin\Debug\net7.0\EnumCollections.deps.json
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\bin\Debug\net7.0\EnumCollections.runtimeconfig.json
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\bin\Debug\net7.0\EnumCollections.dll
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\bin\Debug\net7.0\EnumCollections.pdb
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.dll
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\refint\EnumCollections.dll
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.pdb
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\EnumCollections.genruntimeconfig.cache
+C:\Users\hp\Desktop\EnumCollections\EnumCollections\obj\Debug\net7.0\ref\EnumCollections.dll
